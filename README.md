@@ -1,4 +1,4 @@
-# React Todo App with Local Stroage
+# React Todo App with Local Storage
 
 
 This is a simple to-do list app that has the basic features of persisting to local storage.
